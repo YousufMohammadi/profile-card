@@ -16,7 +16,6 @@ body{
     border-radius: 10px;
     margin: 0 auto;
     backface-visibility: visible;
-    transition: all 1s;
 }
 .card-container{
     width: 100%;
